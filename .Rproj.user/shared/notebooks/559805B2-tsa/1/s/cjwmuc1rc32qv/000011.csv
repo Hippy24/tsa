@@ -1,0 +1,7 @@
+"0","library(bibliometrix)"
+"0",""
+"0","# --- 0) S’assurer d’avoir les champs utiles ---"
+"0","# AU_UN = institutions (tu l'as déjà généré chez toi)"
+"0","M <- metaTagExtraction(M, Field = ""AU_UN"", sep = "";"")"
+"2","Erreur : objet 'M' introuvable
+"
